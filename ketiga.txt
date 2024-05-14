@@ -1,0 +1,15 @@
+Pencarian Lokasi adalah fitur yang memungkinkan pengguna untuk mencari tempat wisata tertentu atau menemukan destinasi berdasarkan kata kunci atau nama lokasi.
+
+Dalam implementasi fitur Pencarian Lokasi, kami melakukan hal-hal berikut:
+
+Penempatan Kotak Pencarian: Kami menempatkan kotak pencarian di bagian atas layar, di mana pengguna dengan mudah dapat melihatnya dan mulai mengetik kata kunci pencarian mereka.
+
+Desain Kotak Pencarian yang Jelas: Kotak pencarian dirancang dengan jelas, menggunakan widget Flutter yang sesuai dan mudah diidentifikasi oleh pengguna sebagai tempat untuk memulai pencarian.
+
+Interaksi dengan Kotak Pencarian: Pengguna dapat langsung memulai pencarian dengan mengetikkan kata kunci dalam kotak pencarian. Kami juga menyediakan opsi untuk memicu pencarian dengan menekan tombol "Cari" pada keyboard perangkat.
+
+Responsivitas dan Ketersediaan Sumber Daya: Kami memastikan bahwa fitur pencarian ini responsif dan dapat menangani berbagai situasi, seperti pencarian dengan nama tempat, alamat, atau kata kunci yang relevan.
+
+Integrasi dengan Layanan Pencarian: Kami menghubungkan kotak pencarian dengan layanan pencarian, baik itu menggunakan API dari penyedia layanan pencarian tertentu atau dengan menggunakan fitur pencarian bawaan Flutter.
+
+Dengan fitur Pencarian Lokasi ini, pengguna dapat dengan mudah menemukan tempat wisata tertentu yang mereka cari atau menemukan destinasi berdasarkan kata kunci yang mereka ketikkan. Ini memberikan fleksibilitas yang besar bagi pengguna dalam merencanakan perjalanan mereka melalui aplikasi Vocation.
