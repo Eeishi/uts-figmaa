@@ -1,0 +1,13 @@
+Kategori Destinasi adalah bagian dari tampilan yang memungkinkan pengguna untuk mempersempit pencarian mereka dengan memilih kategori tempat wisata yang diminati. Ini adalah langkah awal yang penting untuk membantu pengguna menemukan tempat yang sesuai dengan minat dan preferensi mereka.
+
+Dalam implementasi Kategori Destinasi, kami melakukan hal-hal berikut:
+
+Penentuan Kategori yang Relevan: Kami memilih kategori-kategori tempat wisata yang paling umum atau yang paling relevan dengan minat pengguna. Contohnya bisa berupa kategori seperti "Pantai", "Gunung", "Kota", "Sejarah & Budaya", "Alam", dan lain sebagainya.
+
+Tampilan Kategori dalam Bentuk Pilihan: Kami menampilkan kategori-kategori tersebut dalam bentuk pilihan yang mudah dijangkau dan mudah dipahami oleh pengguna. Ini bisa berupa daftar vertikal atau horizontal yang menampilkan nama-nama kategori dengan ikon atau gambar yang relevan.
+
+Interaksi yang Intuitif: Kami memastikan interaksi dengan kategori-kategori ini mudah dipahami oleh pengguna. Mereka dapat memilih kategori dengan menyentuhnya atau mengkliknya, dan setelah memilih, aplikasi akan menyesuaikan tampilan untuk menampilkan tempat-tempat wisata yang termasuk dalam kategori tersebut.
+
+Estetika Visual: Kami memperhatikan estetika visual dalam tampilan Kategori Destinasi ini untuk menjaga konsistensi dengan tema keseluruhan aplikasi. Kami menggunakan warna dan desain yang sesuai dengan konsep perjalanan dan petualangan, serta memilih ikon atau gambar yang mencerminkan setiap kategori dengan jelas.
+
+Dengan implementasi Kategori Destinasi ini, pengguna dapat dengan mudah menemukan tempat-tempat wisata yang sesuai dengan minat mereka tanpa harus melakukan pencarian yang spesifik. Ini merupakan langkah awal yang penting dalam memudahkan pengguna dalam merencanakan perjalanan mereka melalui aplikasi Vocation.
