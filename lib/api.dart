@@ -12,10 +12,10 @@ class AppWrite {
         .setEndpoint('https://cloud.appwrite.io/v1')
         .setProject('669752c80039baaee369')
         .setSelfSigned(status: true);
-    getMusic();
+    getData();
   }
 
-  static Future<List<Document>?> getMusic() async {
+  static Future<List<Document>?> getData() async {
     try {
       final response = await _database.listDocuments(
         databaseId: "6697540e0039e6ab252e",
